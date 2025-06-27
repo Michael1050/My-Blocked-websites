@@ -42408,7 +42408,6 @@
 0.0.0.0 gitbook.io
 0.0.0.0 gitbooks.io
 0.0.0.0 gitcanime.com
-0.0.0.0 github.io
 0.0.0.0 gitiwomenmangalore.com
 0.0.0.0 gitlab.io
 0.0.0.0 gitsyshost.pw
@@ -102029,3 +102028,5 @@
 0.0.0.0 yukiprox.aniplaynow.live
 0.0.0.0 yukiproxy.aniplaynow.live
 0.0.0.0 animedao.lv
+0.0.0.0 animeflix.ltd
+0.0.0.0 animecorner.me
