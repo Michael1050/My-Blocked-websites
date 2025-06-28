@@ -1,0 +1,16 @@
+0.0.0.0 snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 feelinsonice-hrd.appspot.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 gcs.sc-cdn.net
+0.0.0.0 snapchat.com 
+0.0.0.0 app.snapchat.com 
+0.0.0.0 feelinsonice-hrd.appspot.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 gcs.sc-cdn.net
+0.0.0.0 cf-st.sc-cdn.net
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 map.snapchat.com
+0.0.0.0 story.snapchat.com
+0.0.0.0 snapcodes.snapchat.com
+0.0.0.0 store.snapchat.com

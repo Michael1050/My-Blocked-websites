@@ -1,0 +1,15 @@
+0.0.0.0 spotify.com
+0.0.0.0 *.spotify.com
+0.0.0.0 spotifycdn.com
+0.0.0.0 *.spotifycdn.com
+0.0.0.0 sptfy.com
+0.0.0.0 *.sptfy.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 heads-fa.spotify.com
+0.0.0.0 video-akpcw.spotifycdn.com
+0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
+0.0.0.0 video-ak.cdn.spotify.com.splitter-eip.akadns.net
+0.0.0.0 eip-ntt.video-ak.cdn.spotify.com.akahost.net
+0.0.0.0 video-fa.scdn.co
+0.0.0.0 video-fa.cdn.spotify.com
+0.0.0.0 video-fa-b.cdn.spotify.com 

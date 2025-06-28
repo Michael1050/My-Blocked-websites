@@ -1,0 +1,10 @@
+0.0.0.0 bere.al
+0.0.0.0 api.bereal.team
+0.0.0.0 bereal.com
+0.0.0.0 app.bereal.com
+0.0.0.0 auth.bereal.com
+0.0.0.0 api.bereal.com
+0.0.0.0 cdn.bereal.com
+0.0.0.0 static.bereal.com
+0.0.0.0 analytics.bereal.com
+0.0.0.0 mobile.bereal.com
