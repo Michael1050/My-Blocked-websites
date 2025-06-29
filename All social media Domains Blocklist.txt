@@ -116,11 +116,8 @@
 0.0.0.0 snapcodes.snapchat.com
 0.0.0.0 store.snapchat.com
 0.0.0.0 spotify.com
-0.0.0.0 *.spotify.com
 0.0.0.0 spotifycdn.com
-0.0.0.0 *.spotifycdn.com
 0.0.0.0 sptfy.com
-0.0.0.0 *.sptfy.com
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 heads-fa.spotify.com
 0.0.0.0 video-akpcw.spotifycdn.com
