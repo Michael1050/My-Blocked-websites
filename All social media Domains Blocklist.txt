@@ -202,3 +202,4 @@
 0.0.0.0 googlevideo.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 googleapis.com 
+0.0.0.0 kick.com
