@@ -192,8 +192,7 @@
 0.0.0.0 googlevideo.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 googleapis.com
-0.0.0.0 ggpht.com 
-0.0.0.0 Explanation:
+0.0.0.0 ggpht.com
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 m.youtube.com
