@@ -156,3 +156,65 @@ ios.prod.ftl.netflix.com
 www.netflix.com
 apiproxy-device-prod-nlb-4-f1dce6fa09ac5989.elb.eu-west-1.amazonaws.com
 mobile-ixanycast.ftl.netflix.com
+0.0.0.0 netflix.com
+0.0.0.0 netflix.net
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.net
+0.0.0.0 nflximg.com
+0.0.0.0 nflxsearch.net
+0.0.0.0 nflxso.net
+0.0.0.0 nflxvideo.net
+0.0.0.0 netflixstudios.com
+0.0.0.0 auth0.com
+0.0.0.0 oktacdn.com
+0.0.0.0 okta.com
+0.0.0.0 oktapreview.com
+0.0.0.0 cloudflare.com
+0.0.0.0 ingest.sentry.io
+0.0.0.0 rs.fullstory.com
+0.0.0.0 contenthub.netflixstudios.com
+0.0.0.0 pegasusasperaprod.us-east-1.dynprod.netflix.net
+0.0.0.0 meechum.netflix.com
+0.0.0.0 fast.com
+0.0.0.0 netflix.ca
+0.0.0.0 netflixinvestor.com
+0.0.0.0 netflixtechblog.com
+ios-anycast.prod.ftl.netflix.com
+ios.prod.cloud.netflix.com
+apiproxy-device-prod-nlb-1-4d12762d4ba53e45.elb.eu-west-1.amazonaws.com
+ios.prod.eu-west-1.internal.dradis.netflix.com
+ios.prod.ftl.netflix.com
+www.netflix.com
+apiproxy-device-prod-nlb-4-f1dce6fa09ac5989.elb.eu-west-1.amazonaws.com
+mobile-ixanycast.ftl.netflix.com
+www.netflix.com
+logs.netflix.com
+nflxso.net
+occ-0-6661-56.1.nflxso.net
+gfucc2rryk4xjnbtk5uay-eu-west-1.r.nflxso.net
+ftl.netflix.com
+anycast.ftl.netflix.com
+ixanycast.ftl.netflix.com
+mobile-ixanycast.ftl.netflix.com
+ios-anycast.prod.ftl.netflix.com
+ios.prod.ftl.netflix.com
+ios.prod.cloud.netflix.com
+ios.ngp.prod.cloud.netflix.com
+ios.prod.dradis.netflix.com
+ios.prod.eu-west-1.internal.dradis.netflix.com
+appboot.dradis.netflix.com
+ios18.push.prod.netflix.com
+oca-api.eu-west-1.origin.prodaa.netflix.com
+oca-api.us-east-1.origin.prodaa.netflix.com
+oca-api.us-east-2.origin.prodaa.netflix.com
+oca-api.us-west-2.origin.prodaa.netflix.com
+api-global.netflix.com
+customerevents.netflix.com
+apiproxy-device-prod-nlb-1-4d12762d4ba53e45.elb.eu-west-1.amazonaws.com
+apiproxy-device-prod-nlb-3-a6ae1986950e693f.elb.us-east-1.amazonaws.com
+apiproxy-device-prod-nlb-4-1f9e6a56738a49ec.elb.us-east-1.amazonaws.com
+apiproxy-website-nlb-prod-1-5675d5ecda6efdd8.elb.eu-west-1.amazonaws.com
+pushy-prod-nlb4-shard2-66966b98c9fb7d3f.elb.eu-west-1.amazonaws.com
+sessions.bugsnag.com
+notify.bugsnag.com
+firebaselogging-pa.googleapis.com
