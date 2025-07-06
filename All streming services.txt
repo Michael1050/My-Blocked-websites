@@ -467,3 +467,29 @@ mobile-ixanycast.ftl.netflix.com
 0.0.0.0 edge.api.brightcove.com
 0.0.0.0 d3mfc5qyv0pefp.cloudfront.net
 0.0.0.0 watchit.com
+brightcove.com
+api.brightcove.com
+bcove.video
+brightcovecdn.com
+bcvp0rtal.com
+studio.brightcove.com
+admin.brightcove.com
+analytics.api.brightcove.com
+playback.brightcovecdn.com
+edge.api.brightcove.com
+brightcovegallery.com
+videos.brightcovegallery.com
+gallery-metrics.api.brightcove.com
+edge-auth.api.brightcove.com
+edge-gsc.api.brightcove.com
+edge-weighted.api.brightcove.com
+api.bcovlive.io
+watchit.brightcovecdn.com
+concurrency-service.playback.eu-west-1.prod.deploys.brightcove.com
+manifest.prod.boltdns.net
+d3mfc5qyv0pefp.cloudfront.net
+dualstack.brightcove.map.fastly.net
+cdn.globalsigncdn.com.cdn.cloudflare.net
+ocsp2.globalsign.com
+brightcove.map.fastly.net
+watchit.com
