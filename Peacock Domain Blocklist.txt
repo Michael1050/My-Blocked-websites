@@ -1,0 +1,6 @@
+0.0.0.0 peacocktv.com
+0.0.0.0 peacock.com
+0.0.0.0 atom.peacocktv.com
+0.0.0.0 config.clients.peacocktv.com
+0.0.0.0 imageservice.disco.peacocktv.com
+0.0.0.0 clicks.email.peacocktv.com

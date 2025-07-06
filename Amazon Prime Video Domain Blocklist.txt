@@ -1,0 +1,6 @@
+0.0.0.0 primevideo.com
+0.0.0.0 amazonvideo.com
+0.0.0.0 aiv-cdn.net
+0.0.0.0 aiv-delivery.net
+0.0.0.0 pv-cdn.net
+0.0.0.0 atv-ps.amazon.com

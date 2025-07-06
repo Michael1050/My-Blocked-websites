@@ -1,0 +1,7 @@
+0.0.0.0 max.com
+0.0.0.0 hbomax.com
+0.0.0.0 hbogo.com
+0.0.0.0 hbonow.com
+0.0.0.0 auth.max.com
+0.0.0.0 play.max.com
+0.0.0.0 services.brightline.tv
