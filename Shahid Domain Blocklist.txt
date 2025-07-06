@@ -1,0 +1,9 @@
+0.0.0.0 shahid.net
+0.0.0.0 shahid.mbc.net
+0.0.0.0 mbc3.mbc.net
+0.0.0.0 mydream.mbc.net
+0.0.0.0 competition.mbc.net
+0.0.0.0 static.s3.shahid.mbc.net
+0.0.0.0 mbc3forum.mbc.net
+0.0.0.0 webmail.mbc.net
+0.0.0.0 cdn.shahid.mbc.net

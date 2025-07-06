@@ -1,0 +1,12 @@
+0.0.0.0 watchit.brightcovecdn.com
+0.0.0.0 concurrency-service.playback.eu-west-1.prod.deploys.brightcove.com
+0.0.0.0 edge-gsc.api.brightcove.com
+0.0.0.0 dualstack.brightcove.map.fastly.net
+0.0.0.0 manifest.prod.boltdns.net
+0.0.0.0 cdn.globalsigncdn.com.cdn.cloudflare.net
+0.0.0.0 ocsp2.globalsign.com
+0.0.0.0 brightcove.map.fastly.net
+0.0.0.0 edge.api.brightcove.com
+0.0.0.0 d3mfc5qyv0pefp.cloudfront.net
+0.0.0.0 watchit.com
+0.0.0.0 api.watchit.com
