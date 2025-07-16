@@ -1,0 +1,12 @@
+0.0.0.0 podcasts.apple.com
+0.0.0.0 itunes.apple.com
+0.0.0.0 audio-ssl.itunes.apple.com
+0.0.0.0 play.podcasts.apple.com
+0.0.0.0 api.podcasts.apple.com
+0.0.0.0 metrics.podcasts.apple.com
+0.0.0.0 se-edge.itunes.apple.com
+0.0.0.0 podcastsassets.apple.com
+0.0.0.0 itunesconnect.apple.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 appldnld.apple.com
+0.0.0.0 updates-http.cdn-apple.com
