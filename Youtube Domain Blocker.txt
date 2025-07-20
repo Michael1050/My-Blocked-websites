@@ -18,3 +18,6 @@
 0.0.0.0 googlevideo.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 googleapis.com 
+0.0.0.0 r2-sn-uxaxjvhxbt2u-jsplk.googlevideo.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 i.ytimg.com
