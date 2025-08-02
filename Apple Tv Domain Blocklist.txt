@@ -21,5 +21,4 @@
 0.0.0.0 a1956.dscw154.akamai.net
 0.0.0.0 a68.dscg4.akamai.net
 0.0.0.0 s.mzstatic.com
-0.0.0.0 apps.mzstatic.com
 0.0.0.0 is1-ssl.mzstatic.com
