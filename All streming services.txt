@@ -140,7 +140,6 @@
 0.0.0.0 a1956.dscw154.akamai.net
 0.0.0.0 a68.dscg4.akamai.net
 0.0.0.0 s.mzstatic.com
-0.0.0.0 apps.mzstatic.com
 0.0.0.0 is1-ssl.mzstatic.com
 0.0.0.0 primevideo.com
 0.0.0.0 amazonvideo.com
@@ -369,7 +368,6 @@ mobile-ixanycast.ftl.netflix.com
 0.0.0.0 a1956.dscw154.akamai.net
 0.0.0.0 a68.dscg4.akamai.net
 0.0.0.0 s.mzstatic.com
-0.0.0.0 apps.mzstatic.com
 0.0.0.0 is1-ssl.mzstatic.com
 0.0.0.0 primevideo.com
 0.0.0.0 amazonvideo.com
@@ -377,14 +375,6 @@ mobile-ixanycast.ftl.netflix.com
 0.0.0.0 aiv-delivery.net
 0.0.0.0 pv-cdn.net
 0.0.0.0 atv-ps.amazon.com
-ios-anycast.prod.ftl.netflix.com
-ios.prod.cloud.netflix.com
-apiproxy-device-prod-nlb-1-4d12762d4ba53e45.elb.eu-west-1.amazonaws.com
-ios.prod.eu-west-1.internal.dradis.netflix.com
-ios.prod.ftl.netflix.com
-www.netflix.com
-apiproxy-device-prod-nlb-4-f1dce6fa09ac5989.elb.eu-west-1.amazonaws.com
-mobile-ixanycast.ftl.netflix.com
 0.0.0.0 netflix.com
 0.0.0.0 netflix.net
 0.0.0.0 nflxext.com
@@ -467,29 +457,37 @@ mobile-ixanycast.ftl.netflix.com
 0.0.0.0 edge.api.brightcove.com
 0.0.0.0 d3mfc5qyv0pefp.cloudfront.net
 0.0.0.0 watchit.com
-brightcove.com
-api.brightcove.com
-bcove.video
-brightcovecdn.com
-bcvp0rtal.com
-studio.brightcove.com
-admin.brightcove.com
-analytics.api.brightcove.com
-playback.brightcovecdn.com
-edge.api.brightcove.com
-brightcovegallery.com
-videos.brightcovegallery.com
-gallery-metrics.api.brightcove.com
-edge-auth.api.brightcove.com
-edge-gsc.api.brightcove.com
-edge-weighted.api.brightcove.com
-api.bcovlive.io
-watchit.brightcovecdn.com
-concurrency-service.playback.eu-west-1.prod.deploys.brightcove.com
-manifest.prod.boltdns.net
-d3mfc5qyv0pefp.cloudfront.net
-dualstack.brightcove.map.fastly.net
-cdn.globalsigncdn.com.cdn.cloudflare.net
-ocsp2.globalsign.com
-brightcove.map.fastly.net
-watchit.com
+0.0.0.0 brightcove.com
+0.0.0.0 api.brightcove.com
+0.0.0.0 bcove.video
+0.0.0.0 ios-anycast.prod.ftl.netflix.com
+0.0.0.0 ios.prod.cloud.netflix.com
+0.0.0.0 apiproxy-device-prod-nlb-1-4d12762d4ba53e45.elb.eu-west-1.amazonaws.com
+0.0.0.0 ios.prod.eu-west-1.internal.dradis.netflix.com
+0.0.0.0 ios.prod.ftl.netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 apiproxy-device-prod-nlb-4-f1dce6fa09ac5989.elb.eu-west-1.amazonaws.com
+0.0.0.0 mobile-ixanycast.ftl.netflix.com
+0.0.0.0 brightcovecdn.com
+0.0.0.0 bcvp0rtal.com
+0.0.0.0 studio.brightcove.com
+0.0.0.0 admin.brightcove.com
+0.0.0.0 analytics.api.brightcove.com
+0.0.0.0 playback.brightcovecdn.com
+0.0.0.0 edge.api.brightcove.com
+0.0.0.0 brightcovegallery.com
+0.0.0.0 videos.brightcovegallery.com
+0.0.0.0 gallery-metrics.api.brightcove.com
+0.0.0.0 edge-auth.api.brightcove.com
+0.0.0.0 edge-gsc.api.brightcove.com
+0.0.0.0 edge-weighted.api.brightcove.com
+0.0.0.0 api.bcovlive.io
+0.0.0.0 watchit.brightcovecdn.com
+0.0.0.0 concurrency-service.playback.eu-west-1.prod.deploys.brightcove.com
+0.0.0.0 manifest.prod.boltdns.net
+0.0.0.0 d3mfc5qyv0pefp.cloudfront.net
+0.0.0.0 dualstack.brightcove.map.fastly.net
+0.0.0.0 cdn.globalsigncdn.com.cdn.cloudflare.net
+0.0.0.0 ocsp2.globalsign.com
+0.0.0.0 brightcove.map.fastly.net
+0.0.0.0 watchit.com
