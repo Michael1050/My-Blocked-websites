@@ -4,3 +4,5 @@
 0.0.0.0 bag-cdn.itunes-apple.com.akadns.net
 0.0.0.0 bag-cdn-lb2.itunes-apple.com.akadns.net
 0.0.0.0 apps.mzstatic.com
+0.0.0.0 is-ssl.mzstatic.com.itunes-apple.com.akadns.net
+0.0.0.0 amp-api.apps.apple.com
