@@ -1,0 +1,6 @@
+0.0.0.0 xp-cdn-lb.itunes-apple.com.akadns.net
+0.0.0.0 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
+0.0.0.0 bag.itunes.apple.com
+0.0.0.0 bag-cdn.itunes-apple.com.akadns.net
+0.0.0.0 bag-cdn-lb2.itunes-apple.com.akadns.net
+0.0.0.0 apps.mzstatic.com
